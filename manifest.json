@@ -1,0 +1,106 @@
+{
+  "project": "Cedar School",
+  "version": "2.0.0",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4938,
+      "sha256": "2487f21fc1050d1112230502ea25ff916b94c8f3eccd33ebaa202e1e751848c9"
+    },
+    {
+      "path": "server.py",
+      "bytes": 25797,
+      "sha256": "a2e54317e1eb3b0e52e57118c9dc47bab2aa3a0773f17d95ddb64dcb3a511b73"
+    },
+    {
+      "path": "config_support.py",
+      "bytes": 11508,
+      "sha256": "d359304cd79d84bcc2635278fed0300ecbc5be153dd7e28bb97dd6cce8acb9d6"
+    },
+    {
+      "path": "manage.py",
+      "bytes": 3119,
+      "sha256": "41b67a1b3217dff05149ecb05b01e4840cadce1da78d239d7e8c009a3e7e007a"
+    },
+    {
+      "path": "schema.sql",
+      "bytes": 1365,
+      "sha256": "7c4be78812f7c5e9b8d3f32b35b635448ec0ee557a6adad713d80f39ec80091a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 65,
+      "sha256": "56a15b6ecdab4b4e8b65c4169573d147bcb76fdd101c08cf5d21d5c7dede7c65"
+    },
+    {
+      "path": "start.bat",
+      "bytes": 46,
+      "sha256": "39d0bc0d9d9a5f060e2bff62fab23d1206f7e809166a4b153f797f18f8e90527"
+    },
+    {
+      "path": "start.sh",
+      "bytes": 64,
+      "sha256": "c45808468f940b0be9feb1fbba847957287da3de00ad70804208d76cb444d1c8"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 70,
+      "sha256": "22599f045cfc8d31859673fc18e5c7645a356e027dd1ce99d6df5eeee0cf9284"
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 481,
+      "sha256": "c3cda941b90b04d2037ae8c8498ab60258d7988bd70757748182c9eaaf5d99b5"
+    },
+    {
+      "path": "public/style.css",
+      "bytes": 9969,
+      "sha256": "777389b80ba5ba9eb79b28e566d17a55b23317acd8ac40b5dabb94359037a9b7"
+    },
+    {
+      "path": "public/app.js",
+      "bytes": 37904,
+      "sha256": "70a0394630150b469f1d47907156a1be222d5147d06fd499108e630eba4fd4c9"
+    },
+    {
+      "path": "public/extended.js",
+      "bytes": 6200,
+      "sha256": "5a799d6255aa43d68e3c6e237c1bd95e98cb29ee7130be7c27870e4b71a3c84f"
+    },
+    {
+      "path": "tests/test_system.py",
+      "bytes": 8295,
+      "sha256": "18aad25fa8214d00fceab9eb8e49ca04dc27204ba4bebb51c19999ed18ed4707"
+    },
+    {
+      "path": "tests/test_connected_system.py",
+      "bytes": 7521,
+      "sha256": "d9849ae30cc2fdb40423b0718bd5fbe10f6480a8fe08640e3a39235de2939ece"
+    },
+    {
+      "path": "docs/CONFIGURATION.md",
+      "bytes": 7742,
+      "sha256": "c1eea21c8cbad813b314d90a094b8e8f89af718b8f884d88e948c3e02fd0cef3"
+    },
+    {
+      "path": "docs/WORKFLOW.md",
+      "bytes": 7544,
+      "sha256": "83de7b6d626cb8d581ba887cf2d97486c1a8efe3398904c0c6755bb682158ba9"
+    },
+    {
+      "path": "docs/ADMIN_GUIDE.md",
+      "bytes": 7526,
+      "sha256": "80d07d3a6447a134b9a035b5f249cc7000344b7754b170c9d72739c7d5a15803"
+    },
+    {
+      "path": "docs/API.md",
+      "bytes": 4446,
+      "sha256": "8e7fee1f3d0308124b760d8967c2d66d0e14a190273ee075470e6d45c1f5f0cb"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 2473,
+      "sha256": "847ab9dcac233eab622aeb454eeef64172699a6c0e8f86b33a5eaf527cf3440f"
+    }
+  ]
+}
